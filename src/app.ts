@@ -3,7 +3,10 @@ const cookieParser = require('cookie-parser');
 
 const expressApp = express();
 
-expressApp.use(express.json())
+expressApp.use(express.json({
+   limit: "16kb"
+}));
+
 expressApp.use(express.urlencoded({ extended: true }));
 
 expressApp.use(cookieParser());
