@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 2. Clone the repository:
 
    ```bash
-      git clone https://github.com/aniruddhparwal/marvel-movie-search
+      git clone https://github.com/pradhyumvyas/MarvelMovie
    ```
 3. Navigate to the project directory:
 
