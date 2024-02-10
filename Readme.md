@@ -20,7 +20,7 @@ This project utilizes the Marvel API to fetch data about Marvel movies. Users ca
 - [Marvel API](https://developer.marvel.com/) 
 
 ## API Documentation
-   Here you can check api documentation: [marvel-movie-api-docs](https://documenter.getpostman.com/view/11206877/2s9Yyy9e3F)
+   Here you can check api documentation: [Api Documentation](https://documenter.getpostman.com/view/12325777/2s9YyzeJWc)
 
 
 ## Setup
